@@ -9,12 +9,12 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "request": "~2.40.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "5.5.0",
     "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "2.14.0"
+    "eslint-plugin-import": "2.14.0",
+    "request": "2.40.0",
+    "tape": "4.9.1"
   }
 }
