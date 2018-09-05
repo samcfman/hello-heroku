@@ -8,5 +8,8 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^6.3.0"
+  }
 }
